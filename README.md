@@ -33,8 +33,4 @@ To run the project locally, follow these steps:
 
 Contributions and feedback are welcome. Please feel free to open issues or submit pull requests to improve the project.
 
-## Connect with Me
-
-If you have any questions or would like to discuss this project further, you can find me on [LinkedIn](https://www.linkedin.com/in/sreenathkumar/) or [visit my portfolio](https://sreenathkumar.github.io/portfolio/).
-
 Thank you for exploring this Web Animation Showcase project, highlighting the capabilities of React, Tailwind CSS, TypeScript, and GSAP in creating captivating web animations.
